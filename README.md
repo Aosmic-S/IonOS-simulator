@@ -35,8 +35,7 @@ The simulator includes a desktop interface, window management, simulated applica
 ## Tech Stack
 - **TYPESCRIPT**
 - **HTML5**
-- **CSS3**
-- **JavaScript**
+- **CSS** 
 - **Modern Web APIs**
 
 ---
