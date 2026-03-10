@@ -44,20 +44,20 @@ The simulator includes a desktop interface, window management, simulated applica
 
 Clone the repository:
 
-``bash
-git clone https://github.com/Aosmic-S/IonOS-simulator.git
+`bash
+git clone https://github.com/Aosmic-S/IonOS-simulator.git `
 
 Navigate to the project folder:
 
-cd IonOS-simulator
+`cd IonOS-simulator`
 
 Run the project by opening the main file in your browser:
 
-index.html
+`index.html`
 
 Or start a local server:
 
-npx serve
+`npx serve`
 
 
 ---
