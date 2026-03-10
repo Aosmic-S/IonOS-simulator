@@ -1,10 +1,9 @@
-Here is a clean, professional, copy-paste ready README.md for your repository IonOS-simulator.
+
 
 # IonOS Simulator
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-development-orange)
-![Platform](https://img.shields.io/badge/platform-web-lightgrey)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 
 **IonOS Simulator** is a web-based operating system simulation that recreates a desktop environment directly in the browser.  
